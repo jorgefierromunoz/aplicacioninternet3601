@@ -13,3 +13,6 @@ C:\Users\bellavista_lab103\Desktop\agregar mi clase\ConsoleApplication1\obj\Debu
 C:\Users\bellavista_lab103\Desktop\Clase1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\bellavista_lab103\Desktop\Clase1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\bellavista_lab103\Desktop\Clase1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\bellavista_lab103\Desktop\Clase1\claseprueba\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bellavista_lab103\Desktop\Clase1\claseprueba\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bellavista_lab103\Desktop\Clase1\claseprueba\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
