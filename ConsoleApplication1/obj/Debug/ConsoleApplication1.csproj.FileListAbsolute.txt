@@ -4,3 +4,6 @@ C:\Users\bellavista\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Co
 C:\Users\bellavista\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\bellavista\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\bellavista\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\bellavista\Desktop\mi aplicacion\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bellavista\Desktop\mi aplicacion\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bellavista\Desktop\mi aplicacion\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
